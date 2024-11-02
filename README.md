@@ -37,4 +37,25 @@ Wondering what makes ExpressThoughts unique? Here’s why it’s different (and 
 - **Lightweight and Clutter-Free** 🌸: No user authentication, complex moderation, or unnecessary features. Just a simple, easy-to-use app to share and manage posts.
 
 ---
+🔥 Features
 
+	•	Add New Post: Share a thought instantly by creating a new post.
+	•	View All Posts: See all posts in a clean feed.
+	•	Edit Your Post: Made a typo? No worries—edit it on the spot!
+	•	Delete Posts: Retain control and delete posts when they no longer serve you.
+
+🛠️ Getting Started
+	1.	Clone the Repository:
+      git clone https://github.com/yourusername/ExpressThoughts.git
+      cd ExpressThoughts
+  2.	Install Dependencies:
+      npm install
+  3.  Start the Server:
+      node index.js
+  4.  Visit the App:
+      Open your browser and go to http://localhost:8080/posts
+
+🎉 Contributing
+
+Feel free to fork this repository and create a pull request to add your own unique touch! Whether it’s a new feature, bug fix, or just a suggestion, all contributions are welcome.
+    
