@@ -38,12 +38,3 @@ Wondering what makes ExpressThoughts unique? Here’s why it’s different (and 
 
 ---
 
-## 📂 Project Structure
-
-```plaintext
-ExpressThoughts/
-├── public/               # Static assets (CSS, images)
-├── views/                # EJS templates (index.ejs, new.ejs, show.ejs, edit.ejs)
-├── app.js                # Main application file
-├── package.json          # Dependencies and scripts
-└── README.md             # Project documentation
