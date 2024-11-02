@@ -45,13 +45,16 @@ Wondering what makes ExpressThoughts unique? Here’s why it’s different (and 
 	•	Delete Posts: Retain control and delete posts when they no longer serve you.
 
 🛠️ Getting Started
-	1.	Clone the Repository:
+  1. Clone the Repository:
       git clone https://github.com/yourusername/ExpressThoughts.git
       cd ExpressThoughts
-  2.	Install Dependencies:
+     
+  2.  Install Dependencies:
       npm install
+      
   3.  Start the Server:
       node index.js
+      
   4.  Visit the App:
       Open your browser and go to http://localhost:8080/posts
 
